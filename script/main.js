@@ -1,3 +1,3 @@
-var krill = 10; 
-var krill2 = "10";
-console.log(krill === krill2);
+var krill = 100; 
+var krill2 = "100";
+console.log(krill == krill2);
