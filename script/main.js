@@ -1,3 +1,8 @@
-var krill = 100; 
-var krill2 = "100";
-console.log(krill == krill2);
+var text = "42px";
+var integer = parseInt(text, 10);
+//var binary = parseInt("0101", 10);
+console.log(integer);
+
+
+
+
